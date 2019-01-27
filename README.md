@@ -1,4 +1,4 @@
-Word Search Machine
+# Word Search Machine
 
 This is a lab project of my third year of university degree in computer science.
 The goal of the project is to implement a word search machine. You add some files which contain words and the words are placed in a array with a hash code.
